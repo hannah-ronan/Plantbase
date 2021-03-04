@@ -1,0 +1,62 @@
+html {
+	text-align: center;
+	background-color: aquamarine;
+	font-family: 'Lobster', cursive;
+	font-size: 150%;
+}
+header nav li {
+	display: inline-block;
+	padding: 2vw;
+}
+table {
+	margin: auto;
+}
+td, th {
+	padding: 1vw;
+}
+form input, form label, form fieldset{
+	margin: 1.5vw;
+}
+form button {
+	display: block;
+	margin: 1.5vw;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Lobster', cursive;
+	background-color: aquamarine;
+	font-size: 18px;
+	padding: 0.8vw;
+	border: 2px double midnightblue;
+	border-radius: 1.5vw;
+}
+fieldset {
+	border: 2px double midnightblue;
+	border-radius: 3vw;
+}
+header nav ul {
+	padding-left: 0;
+}
+table th {
+	font-size: 26px;
+}
+
+a:link {
+	color: midnightblue;
+	text-decoration: none;
+}
+a:focus {
+	color: white;
+	text-decoration: none;
+}
+a:active{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: midnightblue;
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+	text-decoration: none;
+}
